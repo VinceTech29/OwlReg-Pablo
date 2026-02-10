@@ -1,6 +1,6 @@
-# 🦉 OwlReg-Pablo
+# 🦉 OwlReg
 
-**OwlReg-Pablo** is a Python-based **School Registration System** designed to manage student registration and administrative tasks through a graphical user interface. The system helps administrators securely store, manage, and retrieve student records efficiently.
+**OwlReg** is a Python-based **School Registration System** designed to manage student registration and administrative tasks through a graphical user interface. The system helps administrators securely store, manage, and retrieve student records efficiently.
 
 ## 📖 Project Description
 
